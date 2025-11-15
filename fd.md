@@ -6,11 +6,6 @@ fd es una alternativa más rápida y fácil de usar al comando `find` de Unix. P
 
 ## Instalación
 
-<!--
-  Muestra el comando o los comandos necesarios para instalar la herramienta.
-  Utiliza un bloque de código para que sea fácil de copiar y pegar.
-  Ejemplo:
--->
 ```bash
 sudo apt install fd-find
 ```
